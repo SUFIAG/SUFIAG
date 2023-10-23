@@ -12,7 +12,7 @@
 
 - 💬 Ask me about #Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #CloudComputing, #IndustryBestPractices, #Optimizations, #CareerGoals, #WhatInpiresYou, and much more!
 
-- ⚡ Fun fact: In my free time, I enjoy reading personal-development books, sharing my ideas, and talking about #WhatInspiresMe✨
+- ⚡ Fun fact: I enjoy reading personal-development books, sharing my ideas, and talking about #WhatInspiresMe✨
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
