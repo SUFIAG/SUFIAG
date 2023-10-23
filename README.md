@@ -14,14 +14,14 @@
 
 - ⚡ Fun fact: In my free time, I enjoy reading personal-development books, sharing my ideas, and talking about #WhatInspiresMe✨
 
-<h2 align="center">Connect with me:</h2>
+<h1 align="center">Connect with me:</h1>
 <p align="center">
 <a href="https://twitter.com/sufighani98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sufighani98" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sufyan-a-556b58b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sufyan-a-556b58b9/" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="@sufyanabdulghani" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Tech Stack: </h2>
+<h1 align="left">Tech Stack: </h1>
 <p align="left" >
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
