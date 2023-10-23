@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiag&label=Profile%20views&color=0e75b6&style=flat" alt="sufiag" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sufighani98" target="blank"><img src="https://img.shields.io/twitter/follow/sufighani98?logo=twitter&style=for-the-badge" alt="sufighani98" /></a> </p>
+<p align="left"> <a href="https://seekvectorlogo.com/medium-vector-logo-svg/" target="_blank"><img src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png" width="100" height="34" /></a> </p>
 
 - 🔭 I'm actively looking for full-time Remote Opportunities globally with significant L3 experience.
 
