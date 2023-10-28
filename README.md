@@ -11,6 +11,8 @@
 - 🤝 I'm looking to collaborate on exciting and impactful projects or product ideas that involve cutting-edge technologies.
 
 - 💬 Ask me about #Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #CloudComputing, #IndustryBestPractices, #Optimizations, #CareerGoals, #WhatInpiresYou, and much more!
+  
+- 📚 I'm constantly learning new skills and striving for progress
 
 - ⚡ Fun fact: I enjoy reading personal-development books, sharing my ideas, and talking about #WhatInspiresMe✨
 
