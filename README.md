@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sufyan Abdul Ghani</h1>
-<p align="center">Passionate Full Stack Engineer, committed to the art of crafting innovative web solutions and ensuring seamless user experiences. With approximately 4 years of hands-on experience, I thrive on the dynamic challenges of the software world. My mission is to create scalable web applications that leave a lasting impact. Let's connect and explore how I can assist you or your organization in achieving your tech-driven goals!</p>
+<p align="center">Passionate Full Stack Engineer, deeply committed to crafting innovative solutions and ensuring seamless user experiences. Drawing from a diverse background, I relish the dynamic challenges of the software world. My objective is to develop scalable applications that make a lasting impression. Let's connect and discuss how I can contribute to you or your organization's tech-driven aspirations! </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiag&label=Profile%20views&color=0e75b6&style=flat" alt="sufiag" /> </p>
 
