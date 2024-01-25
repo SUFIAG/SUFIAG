@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/sufighani98" target="blank"><img src="https://img.shields.io/twitter/follow/sufighani98?logo=twitter&style=for-the-badge" alt="sufighani98" /></a> </p>
 <p align="left"> <a href="https://medium.com/@sufyanabdulghani" target="_blank"><img src="https://img.shields.io/badge/-medium-grey?logo=medium&style=for-the-badge" alt="sufighani98"/></a> </p>
 
-- 🔭 I'm actively looking for full-time Remote Opportunities globally with significant L3 experience.
+- 🔭 I'm actively looking for full-time Remote Opportunities globally with significant L4 experience.
 
 - 🤝 I'm looking to collaborate on exciting and impactful projects or product ideas that involve cutting-edge technologies.
 
