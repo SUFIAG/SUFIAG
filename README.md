@@ -1,20 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sufyan Abdul Ghani</h1>
-<p align="center">Passionate Full Stack Engineer, deeply committed to crafting innovative solutions and ensuring seamless user experiences. Drawing from a diverse background, I relish the dynamic challenges of the software world. My objective is to develop scalable applications that make a lasting impression. Let's connect and discuss how I can contribute to you or your organization's tech-driven aspirations! </p>
+<p align="center">Passionate Software Engineer, deeply committed to crafting innovative solutions and ensuring seamless user experiences. Drawing from a diverse background, I relish the dynamic challenges of the software world. My objective is to develop scalable applications that make a lasting impression. Let's connect and discuss how I can contribute to you or your organization's tech-driven aspirations! </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiag&label=Profile%20views&color=0e75b6&style=flat" alt="sufiag" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sufighani98" target="blank"><img src="https://img.shields.io/twitter/follow/sufighani98?logo=twitter&style=for-the-badge" alt="sufighani98" /></a> </p>
 <p align="left"> <a href="https://medium.com/@sufyanabdulghani" target="_blank"><img src="https://img.shields.io/badge/-medium-grey?logo=medium&style=for-the-badge" alt="sufighani98"/></a> </p>
-
-- 🔭 I'm actively looking for full-time Remote Opportunities globally with significant L4 experience.
-
-- 🤝 I'm looking to collaborate on exciting and impactful projects or product ideas that involve cutting-edge technologies.
-
-- 💬 Ask me about #Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #CloudComputing, #IndustryBestPractices, #Optimizations, #CareerGoals, #WhatInpiresYou, and much more!
-  
-- 📚 I'm constantly learning new skills and striving for progress
-
-- ⚡ Fun fact: I enjoy reading personal-development books, sharing my ideas, and talking about #WhatInspiresMe✨
 
 <h1 align="center">Connect with me:</h1>
 <p align="center">
