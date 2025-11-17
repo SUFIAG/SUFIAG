@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sufyan Abdul Ghani</h1>
-<p align="center">Passionate Software Engineer, deeply committed to crafting innovative solutions and ensuring seamless user experiences. Drawing from a diverse background, I relish the dynamic challenges of the software world. My objective is to develop scalable applications that make a lasting impression. Let's connect and discuss how I can contribute to you or your organization's tech-driven aspirations! </p>
+<p align="center">As a Senior Software Engineer, I specialize in designing and delivering scalable, high-performance Java applications. With deep expertise in Spring Boot, REST APIs, and cloud technologies, I thrive on solving complex problems and driving innovative solutions that create real business value. Let’s connect and build the next-level tech solutions together. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiag&label=Profile%20views&color=0e75b6&style=flat" alt="sufiag" /> </p>
 
